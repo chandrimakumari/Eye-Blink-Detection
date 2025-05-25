@@ -19,3 +19,5 @@ This method for eye blink detection is fast, efficient, and easy to implement.
 In terms of blink detection, we are only interested in two sets of facial structures — the eyes.
 
 Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the remainder of the region.
+
+Thanks!
