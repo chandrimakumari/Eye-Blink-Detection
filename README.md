@@ -1,4 +1,4 @@
-## Eye blink detection with OpenCV, Python, and dlib
+ ## Eye blink detection with OpenCV, Python, and dlib
 
 Here we are going to build upon this knowledge and develop a computer vision application that is capable of detecting and counting blinks in video streams using facial landmarks and OpenCV.
 
